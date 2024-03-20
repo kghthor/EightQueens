@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/EightQueens/static/css/main.1fa41540.css",
-    "main.js": "/EightQueens/static/js/main.5de12133.js",
-    "static/media/queenUnderAttack.svg": "/EightQueens/static/media/queenUnderAttack.a47930580d5938e58021f31915b5ddab.svg",
+    "main.js": "/EightQueens/static/js/main.122e8db9.js",
     "index.html": "/EightQueens/index.html",
+    "static/media/queenUnderAttack.svg": "/EightQueens/static/media/queenUnderAttack.0a188d88e7e7a90d54248b637587c245.svg",
     "main.1fa41540.css.map": "/EightQueens/static/css/main.1fa41540.css.map",
-    "main.5de12133.js.map": "/EightQueens/static/js/main.5de12133.js.map"
+    "main.122e8db9.js.map": "/EightQueens/static/js/main.122e8db9.js.map"
   },
   "entrypoints": [
     "static/css/main.1fa41540.css",
-    "static/js/main.5de12133.js"
+    "static/js/main.122e8db9.js"
   ]
 }
