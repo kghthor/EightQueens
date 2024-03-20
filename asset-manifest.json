@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EightQueens/static/css/main.1fa41540.css",
+    "main.js": "/EightQueens/static/js/main.5de12133.js",
+    "static/media/queenUnderAttack.svg": "/EightQueens/static/media/queenUnderAttack.a47930580d5938e58021f31915b5ddab.svg",
+    "index.html": "/EightQueens/index.html",
+    "main.1fa41540.css.map": "/EightQueens/static/css/main.1fa41540.css.map",
+    "main.5de12133.js.map": "/EightQueens/static/js/main.5de12133.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa41540.css",
+    "static/js/main.5de12133.js"
+  ]
+}
