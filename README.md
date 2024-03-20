@@ -1,4 +1,4 @@
-[![Eight Queens](https://raw.githubusercontent.com/kghthor/master/EightQueens/EightQueens.small.png)](https://github.com/attogram/EightQueens)
+[![Eight Queens](https://raw.githubusercontent.com/kghthor/master/EightQueens/EightQueens.small.png)](https://github.com/kghthor/EightQueens)
 
 
 Welcome to the **Eight Queens** chess game.
